@@ -1,0 +1,11 @@
+    h1 {
+        color: red;
+    }
+    
+    #thirdDiv h5,
+    h5 {
+        background-color: aqua;
+        width: 600px;
+        height: 500px;
+        padding-inline: ;
+    }
